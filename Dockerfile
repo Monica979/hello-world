@@ -6,5 +6,4 @@ MAINTAINER "valaxytech@gmail.com"
 COPY ./webapp.war /var/lib/jenkins/workspace/deploy/webapp/target
 
 
-Dog
-Doll
+cat
